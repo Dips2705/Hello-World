@@ -1,0 +1,33 @@
+<html>
+<title>
+My first HTML page
+</title>
+  <h1>
+    Hello HTML
+  </h1>
+  <body>
+    <h2>
+      Introduction to Myself
+    </h2>
+    <p>
+      My name is Ritwik Ganguly. I am a student of first year in college. 
+    </p>
+    <p>
+      I have ranked 477 in JEE Advanced 2018 and have secured admission in one of the top tier institutions in the country- Indian Institute of Technology Guwahati. I will be pursuing the stream "Computer Science and Engineering" for a B.Tech. degree.
+    </p>
+    <h3>
+      My Family
+    </h3>
+    <p>
+    My father's name is Kalidas Ganguly. He is a retired private school teacher. He teaches Physics and Mathematics. He is my friend, philosopher and guide. He is the reason I am invested in Science.
+    </p>
+    <p>
+      My mother's name is Supriti Ganguly. She is a homemaker of profound talents. Quite literally, she is the superwoman of our household. She is the best mother one can ever hope to have. 
+    </p>
+    <p> 
+      I have an elder brother. His name is Sagnik Ganguly. He works in a MNC in Gujarat. He is 25 years old and has always been a strict yet loving guardian. While on one hand, I can easily talk to him about sports stuff, on the other he also maintains a note on my studies and gives me valuable tips.
+    </p>
+    <img src="F:\Assam Meghalaya Trip\DSCN5884.jpg" width=500 align="bottom" data-rotate="90" alt="Family"/>
+      I am indebted to my whole family for their contribution in my overall development as an individual.
+  </body>
+</html>
